@@ -3,7 +3,7 @@
 1. Add orbituary to `src/data/death_certificates.json`
    - Please limit text to 300 characters and format the date as shown
    - Don't worry about sorting the file by date, items are sorted internally
-   - Historic prices can be found here: https://coinmarketcap.com/currencies/sumcoin/historical-data/
+   - Historic prices can be found here: https://sumcoinprice.com
    - Author should be of _some_ significance (subject to interpretation)
 2. Create pull request
 3. ???
@@ -13,6 +13,8 @@
 ## Available Scripts
 
 In the project directory, you can run:
+
+### - Requires v16.14.0 as of July 22'
 
 ### `npm start`
 
